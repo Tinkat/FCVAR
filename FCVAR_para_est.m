@@ -1,11 +1,6 @@
-%------Import data
 clear all;
 
-%------Change folder location
-%cd 'H:\FCVAR'
-%cd 'C:\Users\phien\Downloads'
-
-
+%------Import data
 cds_input = xlsread('CDS_Bond_5y_sync.xlsx',1); %skip first row because var name
 credit = csvread('bond_spreadBP_usriskfree_06122017.csv',1); %skip first row because var name
 
