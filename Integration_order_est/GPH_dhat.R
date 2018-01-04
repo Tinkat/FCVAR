@@ -47,7 +47,7 @@ for (m in 1:M){
 
 #generate sequence for m
 m = seq(1,M)  
-file = paste("/Users/hienphamthu/Documents/PhD DISSERTATION/FCVAR/d_estimate_GPH/credit_dhat_",fi_names[i],".pdf",sep="")
+file = paste("/Users/FCVAR/d_estimate_GPH/credit_dhat_",fi_names[i],".pdf",sep="")
 pdf(file,width=7,height=5)
 
 #plot estimated d dependent on m
