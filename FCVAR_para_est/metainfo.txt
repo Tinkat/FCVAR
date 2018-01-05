@@ -1,0 +1,13 @@
+Name of Quantlet:  ACF_plot
+ 
+Published in:      R 
+  
+Description:       Plot suitable for pairwise comparison of time series and their autocorrelation functions
+ 
+Keywords:          Plot, ACF, time_lag, CDS spreads, bond spreads
+
+Author:            Hien Pham Thu
+  
+Submitted:         17.12.2017 by Hien Pham Thu
+  
+
